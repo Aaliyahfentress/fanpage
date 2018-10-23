@@ -18,3 +18,51 @@ a {
     width: 30px;
     margin: 15px;
 }
+.footer {
+    display: flex;
+    justify-content:space-between;
+}
+
+
+.main {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+.navbar{
+    display: flex;
+    justify-content:space-between;
+}
+
+
+.pic2 {
+    width: 200px;
+    height:150px;
+    
+}
+.pic1{
+    width: 200px;
+    height:150px;
+    
+}
+.pic3{
+    width: 200px;
+    height:150px;
+  
+   
+}
+.gallery {
+    display: flex;
+    justify-content:space-between;
+}
+.pic4{
+    width: 200px;
+    height:150px;
+}
+.leftPlane{
+    padding:15px;
+    
+}
