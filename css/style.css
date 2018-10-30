@@ -57,6 +57,7 @@ a {
 .gallery {
     display: flex;
     justify-content:space-between;
+    border:10px dashed #b8f7f9;
 }
 .pic4{
     width: 200px;
@@ -65,4 +66,23 @@ a {
 .leftPlane{
     padding:15px;
     
+}
+.header{
+    display: flex;
+    justify-content:center;
+    font-family: 'Spicy Rice', cursive;
+    font-size:50px;
+    color:white;
+}
+.header1{
+      justify-content:center;
+    font-family: 'Spicy Rice', cursive;
+    font-size:50px;
+    color:white;
+}
+.header2{
+      justify-content:center;
+    font-family: 'Spicy Rice', cursive;
+    font-size:50px;
+    color:white;
 }
